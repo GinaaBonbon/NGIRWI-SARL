@@ -18,7 +18,7 @@ body{
 	text-align: center;
 	text-transform: uppercase;
 	text-shadow: red 0.1em 0.1em 0.2em;
-	height: 30%;
+	height: 75%;
 }
 #logo{
 	position: absolute;
@@ -100,10 +100,10 @@ p{
 	position: absolute;
 	right: 10%;
 }
-table, th, td {
+/* table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
-}
+} */
 #pied{
 	position: absolute;
 	width: 100%;
